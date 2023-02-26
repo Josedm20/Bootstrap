@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #edf3f9;
+}
+.imagef{
+    background-image: url(../IMG/bg-pattern-quotation.svg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 65%;
+}
+.bgg{
+    background-color: #733fc8da;
+}
+.borderr{
+    border: solid rgba(160,122,211,255);
+}
+.gris{
+    background-color: #49556b;
+}
+.oscuro{
+    background-color: #18202d;
+}
+.blanco{
+    background-color: white;
+}
+.negrito{
+    color: rgba(0, 0, 0, 0.411);
+}
+.marginn{
+    margin-bottom: 2.5rem;
+}
+.letrab{
+    color: rgba(235, 235, 235, 0.89);
+}
+.bordemorado{
+    border: solid #3f1eac;
+}
+.margin2{
+    margin-bottom: 0.9rem;
+}
